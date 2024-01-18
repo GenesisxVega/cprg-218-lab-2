@@ -9,6 +9,9 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Shortbread Cookies](#shortbread-cookies)
+- [Salads](#salads)
+    - [Caesar Salad](#caesar-salad)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -137,7 +140,6 @@ Instructions:
 8. Bake for about 10 minutes, rotating baking sheet in the oven halfway through.
 9. Transfer to a wire sheet to cool.
 
-<<<<<<< HEAD
 ## Salads
 ### Caesar Salad
 
@@ -165,22 +167,4 @@ Instructions:
 5. Slowly drizzle in extra virgin olive oil while whisking constantly.
 6. Whisk in 1/2 tsp salt and 1/8 tsp black pepper, or season to taste.
 7. Rinse, dry and chop or tear the romaine into bite-sized pieces. Place in a large serving bowl and sprinkle generously with shredded parmesan cheese and cooled croutons. Drizzle with caesar dressing and toss gently until lettuce is evenly coated.
-=======
-## Drinks
-### Lemonade
-
-Ingredients: 
-- 1 cup sugar (can reduce to 3/4 cup)
-- 1 cup water (for the simple syrup)
-- 1 cup freshly squeezed lemon juice
-- 2 to 3 cups cold water, to dilute
-
-Instructions: 
-1. Place the sugar and water in a small saucepan and bring to a simmer. Stir so that the sugar dissolves completely and remove from heat.
-2. While the water is heating for the simple syrup, juice your lemons. Depending on the size of the lemons, 4 to 6 of them should be enough for 1 cup of juice.
-3. Pour the juice and the simple syrup sugar water into a serving pitcher. Add 2 to 3 cups of cold water and taste. Add more water if you would like it to be more diluted (though note that when you add ice, it will melt and naturally dilute the lemonade).
-4. Refrigerate 30 to 40 minutes.
-
-
->>>>>>> drinks
 
