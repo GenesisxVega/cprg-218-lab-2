@@ -137,4 +137,31 @@ Instructions:
 8. Bake for about 10 minutes, rotating baking sheet in the oven halfway through.
 9. Transfer to a wire sheet to cool.
 
+## Salads
+### Caesar Salad
+
+Ingredients:
+- 1/2 French Baguette, cut in half and thinly sliced (1/4" thick)
+- 3 Tbsp extra virgin olive oil
+- 1 tsp minced garlic, 2 small cloves
+- 2 Tbsp grated parmesan cheese
+- 2 small garlic cloves, minced (1 tsp)
+- 2 tsp dijon mustard
+- 1 tsp Worcestershire sauce
+- 2 tsp fresh lemon juice
+- 1 1/2 tsp red wine vinegar
+- 1/3 cup extra virgin olive oil
+- 1/2 tsp sea salt, or to taste
+- 1/8 tsp black pepper, plus more to serve
+- 1 large romaine lettuce, (or 2 small heads romaine)
+- 1/3 cup parmesan cheese, shredded or shaved
+
+Instructions:
+1. Preheat oven to 350˚F. Cut the baguette in half lengthwise through the top of the baguette then slice diagonally into 1/4" thick pieces. Place the breads onto a baking sheet.
+2. In a small bowl, combine 3 Tbsp extra virgin olive oil and 1 tsp of finely minced garlic. Drizzle the garlic oil over the croutons and sprinkle the top with 2 Tbsp grated parmesan cheese.
+3. Toss until evenly coated. Spread in a single layer over the baking sheet and bake at 350˚F until light golden and crisp (10-12 minutes), or to desired crispness.
+4. In a small bowl, whisk together garlic, dijon, Worcestershire, lemon juice and red wine vinegar.
+5. Slowly drizzle in extra virgin olive oil while whisking constantly.
+6. Whisk in 1/2 tsp salt and 1/8 tsp black pepper, or season to taste.
+7. Rinse, dry and chop or tear the romaine into bite-sized pieces. Place in a large serving bowl and sprinkle generously with shredded parmesan cheese and cooled croutons. Drizzle with caesar dressing and toss gently until lettuce is evenly coated.
 
